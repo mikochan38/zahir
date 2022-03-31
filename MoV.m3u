@@ -1,0 +1,82 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="HILMoVi",HBO
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="HILMoVi",HBO Hitz
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="HILMoVi",HBO Signatur
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="HILMoVi",HBO Family
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XG51G7vOmcdrgdGJfklgXsZ0cedcB9IeeP0rjMAOJzTZ1Yatme_fXBQ&s=10" group-title="HILMoVi",CINEMAX
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlk51wwD_VRo1KgFaC_HdqKbGED8e70xCj4A&usqp=CAU" group-title="HILMoVi",ifilm
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7h1rCaeVFEhFA1DKd22ZPlyv2Z3tL6nfjA&usqp=CAU" group-title="HILMoVi",WOW Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/1200px-TRT_2_logo.svg.png" group-title="HILMoVi",TRT
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/startv.png?raw=true" group-title="HILMoVi",Star Tv
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="HILMoVi",Star Movi
+http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVuTAMNzbT60LlOhrcnry8uMh0F4XirwFNQ&usqp=CAU" group-title="HILMoVi",Star Chinese
+https://link.zozotv.xyz:443/live/dayah/dayah/68.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/1200px-Star_Channel-Japan.svg.png" group-title="HILMoVi",Star Chanel Jp
+http://51.79.193.108:8080/hls/j00017/index.m3u8?type=jp
+
+
+#EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png" group-title="HILMoVi",Sony Max
+http://103.149.130.122:8089/77/index.m3u8
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcR8yPP04VziOzzFwoFM32XJKRsih76fFDhmFjYVSxt4xL7qwTKVUXGaU1w\u0026s\u003d10" group-title="HILMoVi",Sinema Indonesia
+http://49.128.184.35:25461/live/adekmanis/adekmanis/266.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1587VCYT/sge2.png" group-title="HILMoVi",SGEM
+http://rr.dens.tv/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="HILMoVi",K+
+http://rr.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3vSr2yMJa_4DiNWwpvoFtz4EU_6FV1N_hXdbGu-Qf-phCIC94goYFjID&s=10" group-title="HILMoVi",Hallmark
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkuH7fJR702v_Zdkx93Nd0RY5Q205RerZF8A&usqp=CAU" group-title="HILMoVi",FLik
+https://link.zozotv.xyz:443/live/dayah/dayah/114.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qI5OvD8_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="HILMoVi",Film Rise
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/CrypticCus/IPTV/blob/main/Logo/fox.png?raw=truem" group-title="HILMoVi",FOX
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623738495c_Box%20Movie.png" group-title="HILMoVi",Box Movie
+https://pprex49o5aliv.vcdn.cloud/live/box-movie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/files/channels/poster_1623738495c_Box%20Movie.png" group-title="HILMoVi",Box Movie
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-djET7T4RE9yf8enXoAB893jBRjU920Xegw&usqp=CAU" group-title="HILMoVi",B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="HILMoVi",Action Hollywood
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/85QygBvp/flix2.png" group-title="HILMoVi",FLIX2
+https://link.zozotv.xyz:443/live/dayah/dayah/104.m3u8
+
+
