@@ -24,11 +24,14 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="TVMOMZAH",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="TVMOMZAH",Horee (Kids)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="TVMOMZAH" Horee (zahir)
 https://begaltvku.site/ventidos/master-5.m3u8
 
-#EXTINF:-1 tvg-logo="group-title="TVMOMZAH" Hip Hip horee (Kids)
+#EXTINF:-1 tvg-logo="group-title="TVMOMZAH" Hip Hip horee (zahir)
 http://tvn.x10.bz/xchannel/master-4.m3u8
+
+#EXTINF:-1 group-title="TVMOMZAH",ZooMoo (zahir)
+https://begaltvku.site/ventidos/master-25.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Bioskop 
 https://begaltvku.site/ventidos/master-1.m3u8
@@ -62,9 +65,6 @@ http://tvn.x10.bz/xchannel/master-22.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",METRO TV
 http://tvn.x10.bz/xchannel/master-23.m3u8
-
-#EXTINF:-1 group-title="TVMOMZAH",ZooMoo
-https://begaltvku.site/ventidos/master-25.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",musica studio
 http://tvn.x10.bz/xchannel/master-26.m3u8
