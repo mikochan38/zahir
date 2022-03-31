@@ -87,6 +87,9 @@ http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTINF:-1 group-title="TVMOMZAH",CHAMPIONS 4
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
+#EXTINF:-1 group-title="TVMOMZAH",HBO
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
+
 
 
 
