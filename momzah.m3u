@@ -27,6 +27,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="TVMOMZAH",Horee (Kids)
 https://begaltvku.site/ventidos/master-5.m3u8
 
+#EXTINF:-1 tvg-logo="group-title="TVMOMZAH" Hip Hip horee (Kids)
+http://tvn.x10.bz/xchannel/master-4.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Bioskop 
 https://begaltvku.site/ventidos/master-1.m3u8
 
@@ -36,37 +39,17 @@ https://begaltvku.site/ventidos/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Dangdut
 https://begaltvku.site/ventidos/master-10.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Citra Entertainment
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Entertainment
 https://begaltvku.site/ventidos/master-11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Muslim
 https://begaltvku.site/ventidos/master-9.m3u8
-
-#EXTINF:-1 group-title="TVMOMZAH",LiverpoolTV
-http://tvn.x10.bz/xchannel/master-3.m3u8
-
-#EXTINF:-1 tvg-logo="group-title="TVMOMZAH",Hip Hip horee (Kids)
-http://tvn.x10.bz/xchannel/master-4.m3u8
-
-
-
-#EXTINF:-1 group-title="TVMOMZAH",Champions 1 PRO LIGA
-http://tvn.x10.bz/xchannel/master-6.m3u8
-
-#EXTINF:-1 group-title="TVMOMZAH",Champions 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
-
-#EXTINF:-1 group-title="TVMOMZAH",Champions 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",TV ONE
 https://begaltvku.site/ventidos/master-13.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",TVN 
 https://begaltvku.site/ventidos/master-16.m3u8
-
-#EXTINF:-1 group-title="TVMOMZAH",CHAMPIONS 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",OCHANNEL support Liga & 2
 http://tvn.x10.bz/xchannel/master-18.m3u8
@@ -92,6 +75,17 @@ http://tvn.x10.bz/xchannel/master-28.m3u8
 #EXTINF:-1 group-title="TVMOMZAH",Nusantara TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
 
+#EXTINF:-1 group-title="TVMOMZAH",Champions 1 PRO LIGA
+http://tvn.x10.bz/xchannel/master-6.m3u8
+
+#EXTINF:-1 group-title="TVMOMZAH",Champions 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+
+#EXTINF:-1 group-title="TVMOMZAH",Champions 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+
+#EXTINF:-1 group-title="TVMOMZAH",CHAMPIONS 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
 
 
 
