@@ -14,8 +14,23 @@ https://begaltvku.site/ventidos/master-12.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="TVMOMZAH",Indosiar
 https://begaltvku.site/ventidos/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="TVMOMZAH",K+
-http://rr.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="TVMOMZAH",GlobalTV
+https://link.zozotv.xyz:443/live/dayah/dayah/48.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjftXyhc/mnc.png" group-title="TVMOMZAH",MNC TV
+https://link.zozotv.xyz:443/live/dayah/dayah/49.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xChTMvbH/rcti.png" group-title="TVMOMZAH",RCTI
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="TVMOMZAH",TRANSTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TVMOMZAH",TRANS7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkuH7fJR702v_Zdkx93Nd0RY5Q205RerZF8A&usqp=CAU" group-title="TVMOMZAH",FLik
 https://link.zozotv.xyz:443/live/dayah/dayah/114.m3u8
@@ -30,11 +45,10 @@ http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwi
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_small.png?v=2.0.0.13" group-title="TVMOMZAH",IMC
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=imc&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TVMOMZAH",TRANS7
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="TVMOMZAH",TRANSTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="TVMOMZAH",K+
+http://rr.dens.tv/h/h08/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_pandatv_small.png?" group-title="TVMOMZAH",PANDA 🐼
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=pandatv&bandwidth=default&sync=0
