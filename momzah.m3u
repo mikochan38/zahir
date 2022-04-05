@@ -3,16 +3,16 @@
 ################# TVMOMZAH #################
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_zbioskop_small1.png?v=2.0.0.13" group-title="TVMOMZAH",Zee Bioskop
-https://begaltvku.site/ventidos/master-15.m3u8
+http://tvn.x10.bz/TvN_ID/master-15.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="TVMOMZAH",SCTV 
-https://begaltvku.site/ventidos/master-24.m3u8
+http://tvn.x10.bz/TvN_ID/master-24.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="TVMOMZAH",ANTV
-https://begaltvku.site/ventidos/master-12.m3u8
+http://tvn.x10.bz/TvN_ID/master-12.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="TVMOMZAH",Indosiar
-https://begaltvku.site/ventidos/master.m3u8
+http://tvn.x10.bz/TvN_ID/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="TVMOMZAH",GlobalTV
@@ -31,6 +31,17 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TVMOMZAH",TRANS7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",TvN
+http://tvn.x10.bz/TvN_ID/master-16.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Ajwa
+http://tvn.x10.bz/TvN_ID/master-14.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d36a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH", Al-Qur'an Al kareem
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkuH7fJR702v_Zdkx93Nd0RY5Q205RerZF8A&usqp=CAU" group-title="TVMOMZAH",FLik
 https://link.zozotv.xyz:443/live/dayah/dayah/114.m3u8
@@ -59,25 +70,22 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Bioskop 
-https://begaltvku.site/ventidos/master-1.m3u8
+http://tvn.x10.bz/TvN_ID/master-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Drama
-https://begaltvku.site/ventidos/master-2.m3u8
+http://tvn.x10.bz/TvN_ID/master-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Dangdut
-https://begaltvku.site/ventidos/master-10.m3u8
+http://tvn.x10.bz/TvN_ID/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Entertainment
-https://begaltvku.site/ventidos/master-11.m3u8
+http://tvn.x10.bz/TvN_ID/master-11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="TVMOMZAH",Citra Muslim
-https://begaltvku.site/ventidos/master-9.m3u8
+http://tvn.x10.bz/TvN_ID/master-9.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",TV ONE
 https://begaltvku.site/ventidos/master-13.m3u8
-
-#EXTINF:-1 group-title="TVMOMZAH",TVN 
-https://begaltvku.site/ventidos/master-16.m3u8
 
 #EXTINF:-1 group-title="TVMOMZAH",OCHANNEL support Liga & 2
 http://tvn.x10.bz/xchannel/master-18.m3u8
