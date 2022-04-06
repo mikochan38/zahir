@@ -12,6 +12,12 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="HILMoVi",HBO Family
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4VzF0H/galaxy-home-tv.png" group-title="HILMoVi",Galaxi
+https://ppmk.my.id/blok/useehls.m3u8?id\u003dgalaxy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" group-title="HILMoVi",Galaxi premium
+https://ppmk.my.id/blok/useehls.m3u8?id\u003dgalaxypremium
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XG51G7vOmcdrgdGJfklgXsZ0cedcB9IeeP0rjMAOJzTZ1Yatme_fXBQ&s=10" group-title="HILMoVi",CINEMAX
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 
