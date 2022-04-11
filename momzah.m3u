@@ -16,14 +16,13 @@ http://tvn.x10.bz/TvN_ID/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="TVMOMZAH",GlobalTV
-https://link.zozotv.xyz:443/live/dayah/dayah/48.m3u8
-
+https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/globaltv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjftXyhc/mnc.png" group-title="TVMOMZAH",MNC TV
-https://link.zozotv.xyz:443/live/dayah/dayah/49.m3u8
+https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xChTMvbH/rcti.png" group-title="TVMOMZAH",RCTI
-https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/rcti_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="TVMOMZAH",TRANSTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
