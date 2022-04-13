@@ -22,7 +22,8 @@ https://lnk.ec/GTVplus?shareext.m3u8
 https://lnk.ec/MNCTVplus?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xChTMvbH/rcti.png" group-title="TVMOMZAH",RCTI
-https://lnk.ec/RCTIplus?shareext.m3u8
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index_15.m3u8
+#https://lnk.ec/RCTIplus?shareext.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="TVMOMZAH",TRANSTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
